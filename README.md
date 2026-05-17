@@ -1,3 +1,4 @@
+![Energy System Analytics](images/project_banner.png)
 # **Energy system analytics — France 2022**
 
 
